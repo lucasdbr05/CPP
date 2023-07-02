@@ -1,0 +1,12 @@
+=>Pilares da Object Orientation
+
+->Encapsulamento: saber os paramentros que se passa de um método, saber o que vai retornar e saber como interagir com um objeto.
+Dentro desse objeto, haverá atributos e métodos. Os modificadores de acesso pode tornar uma instância como public, protected ou private.
+
+->Herança: surge como necessidade de reuso de código. Esse reuso se dá por outros objetos poderem herdar caracteristicas de classes
+maiores(super classes, mais genérica; sub classe, mais especifica).
+
+->Polimorfismo: estático - sobrecarga de métodos; dinâmico - subclasses assumir multiplas formas a partir de herdar as caractersticas
+de sua superclasse.
+
+->Abstração: resolução de um problema do mundo real co suas caracteristicas espeecificas a partir do uso de um software.
